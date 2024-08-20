@@ -1,0 +1,16 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Build output
+/build/
+
+# IDE-specific files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+
